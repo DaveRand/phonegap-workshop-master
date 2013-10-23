@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "org.coenraets.employeedirectory"
+        id        = "org.edulinksys.intouch"
         versionCode="10"
         version   = "1.1.0">
 
     <!-- versionCode is optional and Android only -->
 
-    <name>Employee Directory</name>
+    <name>Intouch</name>
 
     <description>
-        A simple employee directory application
+        Intouch Notification system
     </description>
 
-    <author href="http://coenraets.org" email="ccoenraets@gmail.com">
-        Christophe Coenraets
+    <author href="http://www.edulinksys.com" email="davef@edulinksys.com">
+        David Funderburk
     </author>
 
 </widget>
